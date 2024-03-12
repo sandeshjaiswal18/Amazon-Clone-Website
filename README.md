@@ -1,2 +1,2 @@
 # Amazon-Clone-Website
-Amazon clone website using HTML and CSS
+Designed an Amazon clone website. Technology Used: HTML5, CSS3, JavaScript.
